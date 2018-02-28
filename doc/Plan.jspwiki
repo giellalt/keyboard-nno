@@ -126,13 +126,13 @@ Alternativt kunne det vera ᛆ (A) med dynamisk prikk, dvs ᛆ͘. som òg gjev m
 ᷸ = COMBINING DOT ABOVE LEFT, U+1DF8
 }}}
 
-Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font på systemet.
+Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten ikkje finst i ein einaste font.
 
 !Alternativ 3
 Eit tredje alternativ er å nytta ᚨ, som jo eigentleg er ein A-rune (Ansuz), som i norrønt går over til å tyda á/ó, som i Óss/Áss. Lang A (Á) svarar til Å i moderne norsk, dvs Å som i Åsgard. Hovudargumentet mot å nytta denne runen for Å er at det ikkje finst dekning for slik bruk i middelaldermaterialet.
 
 !Alternativ 4
-Eit fjerde alternativ er å nytta den yngre varianten av Áss-runen: ᚭ. I og med at den er yngre, svarar dette alternativet betre til tanken om å byggja på den yngste, autentiske tradisjonen.
+Eit fjerde alternativ er å nytta den yngre varianten av Áss-runen: ᚭ. I og med at den er yngre, svarar dette alternativet betre til tanken om å byggja på den yngste, autentiske tradisjonen. Sjå elles argumenta for alternativ 3.
 
 !Konklusjon for Å
 Av desse fire alternativa er det det siste som er det beste:
@@ -146,7 +146,7 @@ Innvendinga at han ikkje høyrer til runeinventaret i middelalderrunene er ikkje
 
 Plasseringa av runene er slik at dei ligg på dei same tastane som dei norske bokstavane med tilsvarande lydverdi.
 
-Alle andre runer enn dei som er relevante for å skriva norsk skal bli tilgjengeleg via Skift-tasten. Det vil difor bli mogleg å skriva alle runer som er definerte i Unicode.
+Alle andre runer enn dei som er relevante for å skriva norsk skal bli tilgjengelege via Skift-tasten. Det vil difor bli mogleg å skriva alle runer som er definerte i Unicode.
 
 !!!Kjelder
 
@@ -154,10 +154,11 @@ Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 
 * [Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling,
 University of Oslo, 2001|http://urn.nb.no/URN:NBN:no-27534]
-* [Wikipedia 1|https://en.wikipedia.org/wiki/Runic_(Unicode_block)]
+* [Wikipedia 1|https://en.wikipedia.org/wiki/Runic_(Unicode_block)] \\
   Merknaden der om Belgthor stemmer ikkje med det Nordby skriv om runer for X. I
   fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runen for X.
 * [Wikipedia 2|https://en.wikipedia.org/wiki/Runes]
 * [Arild Hauge sine sider om runer|http://www.arild-hauge.com/eindex.htm]
+* [Unicode|http://unicode.org/]
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna. Det er rimeleg å tru at Nordby er den beste referansen både når det gjeld det og andre skilnader mellom kjeldene.
