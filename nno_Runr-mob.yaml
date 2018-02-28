@@ -1,0 +1,55 @@
+internalName: nno_Runr
+
+displayNames:
+  nn_Runr: ᚿᚮᚱᛋᚴ
+  nn: Norsk med runer
+  en: Runic Nynorsk
+
+locale: nn_Runr
+
+supportedTargets: [ios, android]
+
+modes:
+  mobile-default: |
+    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
+    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+        ᚡ ᛒ ᚿ ᛘ ᛅ
+  mobile-shift: |
+    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
+    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+        ᚡ ᛒ ᚿ ᛘ ᛅ
+
+longpress:
+  ᛆ: ᚨ ᚭ ᚪ ᛅ
+  ᛒ: ᛓ
+  ᛑ: ᛞ ᚦ ᚧ
+  ᛂ: ᛖ
+  ᚵ: ᚷ ᚸ ᛄ
+  ᚼ: ᚺ ᚻ ᚽ
+  ᛁ: ᛜ ᛝ
+  ᚴ: ᚲ ᛩ ᛪ
+  ᛚ: ᛛ
+  ᛘ: ᛗ ᛙ
+  ᚿ: ᚾ ᛀ ᚶ
+  ᚮ: ᚩ ᚬ ᚭ ᛟ
+  ᛔ: ᛈ ᛕ
+  ᛋ: ᛊ ᛌ ᚳ ᛍ ᛣ ᛤ ᛎ
+  ᛐ: ᛏ ᚦ ᚧ
+  ᚡ: ᚥ ᚹ
+  ᛦ: ᚣ ᚤ ᛧ ᛨ
+
+
+styles:
+  tablet:
+    actions:
+      backspace: [1, right, fill]
+      enter: [2, right, fill]
+      shift: [3, both, fill]
+  phone:
+    actions:
+      shift: [3, left, fill]
+      backspace: [3, right, fill]
+
+strings:
+  space: ᛘᛁᛚᛚᚮᛘᚱᚢᛘ
+  return: ᛚᛁᚿᛂᛋᚴᛁᚠᛐ
