@@ -31,7 +31,7 @@ Liste over runer i Unicode, ordna etter lydverdi/motsvarande latinsk bokstav:
 | X | ᛪ ᛰ
 | Y | ᚣ ᚤ ᛦ ᛧ ᛨ
 | Z | ᛎ
-| Æ | ᚫ
+| Æ | ᚫ ᛅ
 | Ø | ᚯ
 | Å |  
 | Þ | ᚦ 
@@ -54,25 +54,25 @@ Uklassifiserte:
 | ᛥ | runic letter stan        | u+16e5
 | ᛯ | runic letter tvimadur    | u+16ef
 
-!!Runer i bruk i ulike tidsbolkar
+!!Norske runer i middelalderen og seinare
 
-Norsk futhark frå slutten av 1200-talet, med tillegg (eg har lagt inn mellomrom og ᛬ for å få bokstavar og runer til å stå rimeleg beint under kvarandre):
+Norsk futhark frå slutten av 1200-talet, med tillegg):
 
 {{{
 f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
-ᚠ ᚢ ᚦ ᚮ ᛬ᚱ ᚴ ᚼ ᚿ ᛬ᛁ᛬ ᛆ᛬ ᛌ᛬ ᛐ ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ ᛬ ᛑ ᛔ ᛅ ᚯ ᛋ   ᚡ
+ᚠ ᚢ ᚦ ᚮ ᚱ ᚴ ᚼ ᚿ  ᛁ ᛆ  ᛌ ᛐ  ᛒ ᛘ ᛚ ᛦ   ᚵ ᛂ  ᛑ ᛔ ᛅ ᚯ  ᛋ  ᚡ
 }}}
 
 Eller alfabetisk:
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛋ ᛬ᛑ ᛂ ᛬ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛔ   :ᚱ ᛌ ᛐ ᚢ ᚡ     ᛦ ᛋ ᛅ ᚯ
+ᛆ ᛒ ᛋ ᛑ  ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ   ᚱ ᛌ ᛐ ᚢ ᚡ     ᛦ ᛋ ᛅ ᚯ
 }}}
 
 Oppsummering av etterreformatoriske runer (sjå kjelde lenger ned):
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛎ ᛬ᚦ ᛂ ᛬ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛔ ᚴ ᚱ ᛋ ᛏᛐ ᚢ ᚡ  ᛰ ᚤ ᛦ ᛅ ᚯ
+ᛆ ᛒ ᛎ  ᚦ ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ ᛔ  ᚴ ᚱ ᛋ ᛏᛐ ᚢ ᚡ  ᛰ ᚤ ᛦ ᛅ ᚯ
 }}}
 
 !!!Forslag til runerekkje/runealfabet for norsk
@@ -81,8 +81,11 @@ Om ein går attende til den yngre runerekka med tillegg, som den siste autentisk
 
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
-ᛆ ᛒ ᛬ᛋ ᛬ᛑ ᛂ ᚠ ᚵ ᚼ ᛬ᛁ   ᚴ ᛬ᛚ ᛘ ᚿ ᛬ᚮ ᛬ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ ᚡ   ᛰ ᛦ ᛋ ᛅ ᚯ ᚭ
+ᛆ ᛒ ᛋ ᛑ  ᛂ ᚠ ᚵ ᚼ  ᛁ   ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ ᚴ ᚱ ᛋ ᛐ ᚢ  ᚡ  ᛰ ᛦ ᛋ ᛅ ᚯ ᚭ
 }}}
+
+Dette er òg relativt nære den etterreformatoriske bruken av runer i Noreg, sjølv
+om det er visse skilnader. Sjå elles Nordby (2001), og merknadene nedanfor.
 
 !!Merknader
 
