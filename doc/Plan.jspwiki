@@ -116,7 +116,7 @@ Uklassifiserte:
 
 !!Norske runer i middelalderen og seinare
 
-Norsk futhark frå slutten av 1200-talet, med tillegg):
+Norsk futhark frå slutten av 1200-talet, med tillegg:
 
 {{{
 f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
@@ -129,7 +129,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ ᛋ ᛑ  ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ   ᚱ ᛌ ᛐ ᚢ ᚡ     ᛦ ᛋ ᛅ ᚯ
 }}}
 
-Oppsummering av etterreformatoriske runer (sjå kjelde lenger ned):
+Oppsummering av etterreformatoriske runer (Nordby 2001):
 {{{
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ ᛎ  ᚦ ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ ᛔ  ᚴ ᚱ ᛋ ᛏᛐ ᚢ ᚡ  ᛰ ᚤ ᛦ ᛅ ᚯ
@@ -175,8 +175,7 @@ Merknader om nokre bokstavar og runer, i hovudsak om skilnader mellom
 moderne, norske runerekka:
 
 ;C: det er ikkje bruk for C i norsk, og namn bør anten tilpassast eller skrivast
-med latinske bokstavar. C er difor lik S, sjølv om ein kan få kortrune for S via
-Skift-S.
+med latinske bokstavar. C er difor lik S, sjølv om kortrune for S er det føretrukne.
 
 ;D: eg har halde meg til dei yngre runene, og ikkje til den etterreformatoriske
 gjenbruken av Thorn. Thorn er tilgjengeleg via Skift-D.
@@ -186,7 +185,7 @@ gjenbruken av Thorn. Thorn er tilgjengeleg via Skift-D.
 ;Q: = K, sjå elles merknad til C.
 
 ;S: her har eg nytta kortvarianten. Det er ein tendens i middelaldertekstane til
-å nytta den eldre fullrune-S-en for C og Z, og kortvarianten for S, og slik har
+å nytta den eldre langrune-S-en for C og Z, og kortvarianten for S, og slik har
 eg gjort det på dette tastaturet òg. Lydverdien er den same for begge to.
 
 ;T: eg har halde meg til den vanlege bruken i dei yngre runene, som òg er nytta
@@ -204,18 +203,19 @@ varianten er tilgjengeleg via Skift-Y.
 
 ;Z: = S, sjå merknad til C. Etterreformatorisk Z-rune tilgjengeleg via Skift-Z.
 
-;Å: manglar heilt i alle kjende innskrifter
+;Å: manglar heilt i alle kjende innskrifter, men trengst for å skriva moderne
+norsk. Sjå diskusjonen nedanfor.
 
 !!Forslag for Å
 
 Det er heilt naudsynt å ha ein eigen rune for Å om ein skal skriva moderne norsk
-med runer. Her er fire forslag, og til slutt ein konklusjon.
+med runer. Her er fire moglege løysingar, og til slutt ein konklusjon.
 
 !Alternativ 1
 skulle kunna skrivast ᛆᚮ, dvs ao, som både gjev typografisk meining (Å er
 eigentleg A + O ovanpå), og fonologisk meining - lang A har vorte AO i islandsk
 og vestlandske dialektar. Men helst skulle det då vera ein digraf som ser betre
-ut, noko i stil med ᚰ. 
+ut, noko i stil med ᚰ.
 
 !Alternativ 2
 Alternativt kunne det vera ᛆ (A) med dynamisk prikk, dvs ᛆ͘. som òg gjev meining:
@@ -232,7 +232,8 @@ punkt i andre runer. Det burde vera:
 
 Eksemplet lenger opp nyttar COMBINING DOT ABOVE _RIGHT_, U+0358, men det blir
 sjølvsagt feil. Det er likevel det vi må nytta nett no, sidan _LEFT_-varianten
-ikkje finst i ein einaste font.
+ikkje finst i ein einaste font. Alt i alt ei dårleg løysing pga dei tekniske
+problema med å få det til å sjå ut slik det burde vera.
 
 !Alternativ 3
 Eit tredje alternativ er å nytta ᚨ, som jo eigentleg er ein A-rune (Ansuz), som
@@ -252,7 +253,7 @@ Av desse fire alternativa er det Alternativ 4 som peikar seg ut som det beste:
 * nyttar ein rune som svarar til den lyden som seinare utvikla seg til Å
 * har ikkje fått andre lydverdiar og annan bruk seinare (vart ikkje nytta seinare)
 
-Innvendinga at han ikkje høyrer til runeinventaret i middelalderrunene er ikkje
+Innvendinga at Å ikkje høyrer til runeinventaret i middelalderrunene er ikkje
 god nok til å forkasta det alternativet framfor dei andre alternativa, som anten
 viser til ei enno eldre form, eller som nyttar kombinasjonar som det ikkje
 eigentleg er grunnlag for, eller som er teknisk uhaldbare.
@@ -263,8 +264,8 @@ Plasseringa av runene er slik at dei ligg på dei same tastane som dei norske
 bokstavane med tilsvarande lydverdi.
 
 Alle andre runer enn dei som er relevante for å skriva norsk skal bli
-tilgjengelege via Skift-tasten. Det vil difor bli mogleg å skriva alle runer som
-er definerte i Unicode.
+tilgjengelege via Skift- og AltGr-tastane. Det vil difor bli mogleg å skriva
+alle runer som er definerte i Unicode.
 
 !!!Kjelder
 
