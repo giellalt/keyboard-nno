@@ -1,7 +1,7 @@
 internalName: nno_Runr
 
 displayNames:
-  nn_Runr: ᚿᚮᚱᛋᚴ
+  nn_Runr: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
   nn: Norsk med runer
   en: Runic Nynorsk
 
@@ -12,12 +12,12 @@ supportedTargets: [ios, android]
 modes:
   mobile-default: |
     ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
-    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
-        ᚡ ᛒ ᚿ ᛘ ᛅ
+    ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+       ᚡ ᛒ ᚿ ᛘ ᛅ ᛫
   mobile-shift: |
-    ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
-    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
-        ᚡ ᛒ ᚿ ᛘ ᛅ
+    ᛖ ᚱ ᛏ ᚤ ᚢ ᛃ ᛟ ᛕ ᚭ
+    ᚨ ᛋ ᛑ ᚠ ᚵ ᚺ ᚲ ᛚ ᚯ
+       ᚥ ᛓ ᚾ ᛗ ᛅ ᛫
 
 longpress:
   ᛆ: ᚨ ᚭ ᚪ ᛅ
@@ -26,17 +26,18 @@ longpress:
   ᛂ: ᛖ
   ᚵ: ᚷ ᚸ ᛄ
   ᚼ: ᚺ ᚻ ᚽ
-  ᛁ: ᛜ ᛝ
+  ᛁ: ᛃ
   ᚴ: ᚲ ᛩ ᛪ
   ᛚ: ᛛ
   ᛘ: ᛗ ᛙ
-  ᚿ: ᚾ ᛀ ᚶ
+  ᚿ: ᚾ ᛀ ᚶ ᛜ ᛝ
   ᚮ: ᚩ ᚬ ᚭ ᛟ
   ᛔ: ᛈ ᛕ
-  ᛋ: ᛊ ᛌ ᚳ ᛍ ᛣ ᛤ ᛎ
+  ᛌ: ᛋ ᛊ ᚳ ᛍ ᛣ ᛤ ᛎ
   ᛐ: ᛏ ᚦ ᚧ
   ᚡ: ᚥ ᚹ
   ᛦ: ᚣ ᚤ ᛧ ᛨ
+  ᛫: ᛬ ᛭
 
 
 styles:
