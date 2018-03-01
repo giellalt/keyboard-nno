@@ -37,6 +37,21 @@
         </tr>
       </tbody>
     </table>
-    <h2>No keyboard layout defined yet!</h2>
+    <h2>ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (macOS)</h2>
+    <object type="image/svg+xml"data="nno_Runr_mac.svg" width="960" height="320"></object><br>
+    <h2>ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (Windows)</h2>
+    <object type="image/svg+xml"data="nno_Runr_win.svg" width="960" height="320"></object><br>
+    <script>
+        "use strict";
+
+        var i, ii, nodes, node;
+
+        nodes = document.querySelectorAll(".key-dead");
+        for (i = 0, ii = nodes.length; i < ii; ++i) {
+            nodes[i].addEventListener('click', function(e) {
+                console.log(this);
+            }, false);
+        }
+    </script>
 </body>
 </html>
