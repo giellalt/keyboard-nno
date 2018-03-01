@@ -1,13 +1,20 @@
 ### Generated from nb-t-k0-windows-extended.xml on 2017-11-24 at 09:31.
-
-internalName: nb-t-k0-windows-extended
+internalName: nno_Runr_win
 
 displayNames:
-  nb: Norwegian with Sami
+  nb: Norsk med runer
+  nn_Runr: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
+  nn: Norsk med runer
+  en: Runic Nynorsk
 
-locale: nb
+locale: nn_Runr
 
 supportedTargets: [win, x11, svg]
+
+targets:
+  win:
+    locale: nn-Runr
+    languageName: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
 
 modes:
   # default

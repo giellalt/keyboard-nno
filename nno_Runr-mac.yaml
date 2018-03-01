@@ -1,9 +1,11 @@
 ### Generated from nb-t-k0-osx-extended.xml on 2017-11-24 at 09:29.
-internalName: nno_Runr
+internalName: nno_Runr_mac
 
 displayNames:
-  nn: Nynorsk med runer
-  nn_Runr: Nynorsk med runer
+  nb: Norsk med runer
+  nn_Runr: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
+  nn: Norsk med runer
+  en: Runic Nynorsk
 
 locale: nn_Runr
 
@@ -12,64 +14,64 @@ supportedTargets: [osx, x11, svg]
 modes:
   # default
   iso-default: |
-    < 1 2 3 4 5 6 7 8 9 0 + ´
-    ᚴ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ ¨
-    ᛆ ᛋ ᛑ ᚠ ᚵ ᚼ ᛃ ᚴ ᛚ ᚯ ᛅ @
-    ' ᛋ ᛰ ᛌ ᚡ ᛒ ᚿ ᛘ , . -
+    ' 1 2 3 4 5 6 7 8 9 0 + ´
+      ᛭ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ  ᚮ ᛔ ᚭ ¨
+      ᛆ ᛌ  ᛑ ᚠ ᚵ ᚼ ᛁ ᚴ ᛚ ᚯ ᛅ @
+    < ᛫ ᛰ  ᛬ ᚡ ᛒ ᚿ ᛘ , . -
   # shift+caps?
   iso-shift: |
-    > ! " # $ % & / ( ) = ? `
-    Q W E R T Y U I O P Å ˆ
-    A S D F G H J K L Ø Æ *
-    § Z X C V B N M ; : _
+    § ! " # $ % & / ( ) = ? `
+      ᛩ ᚥ ᛖ R ᛏ ᚤ U ᛃ ᛟ ᛕ Å ˆ
+      ᚨ ᛋ D F ᚷ ᚺ ᛃ ᚲ  L Ø Æ *
+    > ᛎ ᛪ C V ᛓ N M ; : _
   # caps
   iso-caps: |
-    < 1 2 3 4 5 6 7 8 9 0 + ´
-    Q W E R T Y U I O P Å ¨
-    A S D F G H J K L Ø Æ @
-    ' Z X C V B N M , . -
+    ' 1 2 3 4 5 6 7 8 9 0 + ´
+      Q W E R T Y U I O P Å ¨
+      A S D F G H J K L Ø Æ @
+    < Z X C V B N M , . -
   # opt
   iso-alt: |
-    ≤ © ™ £ € ‸ § | [ ] ˝ ± \u{301}
-    • , é ˇ þ ˘ ˀ ʼ œ ˙ ˚ \u{308}
-    ¯ ß ð ƒ . ˛ \u{A0}\u{330} ˜ - ö ä '
-    ' ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
+    ' © ™ £ € ‸ § | [ ] ˝ ± \u{301}
+      • , é ˇ þ ˘ ˀ ʼ œ ˙ ˚ \u{308}
+      ¯ ß ð ƒ . ˛ \u{A0}\u{330} ˜ - ö ä '
+    ≤ ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
   # opt+shift+cmd?+caps?
   iso-alt+shift: |
-    ≥ ¡ ® ¥ ¢ \u{32D} ¶ \ { } \u{30B} ¿ \u{300}
-    ° \u{326} É \u{30C} Þ \u{306} \u{309} \u{31B} Œ \u{307} \u{30A} \u{302}
-    \u{304} № Ð ʔ \u{323} \u{328} \u{330} \u{303} \u{335} Ö Ä "
-    § ⁄ \u{331} \u{327} « » “ ” „ · —
+    § ¡ ® ¥ ¢ \u{32D} ¶ \ { } \u{30B} ¿ \u{300}
+      ° \u{326} É \u{30C} Þ \u{306} \u{309} \u{31B} Œ \u{307} \u{30A} \u{302}
+      \u{304} № Ð ʔ \u{323} \u{328} \u{330} \u{303} \u{335} Ö Ä "
+    ≥ ⁄ \u{331} \u{327} « » “ ” „ · —
   # opt+caps
   iso-caps+alt: |
-    ≤ © ™ £ € ‸ § | [ ] ˝ ± \u{301}
-    • , É ˇ Þ ˘ ˀ ʼ Œ ˙ ˚ \u{308}
-    ¯ SS Ð ƒ . ˛ \u{A0}\u{330} ˜ - Ö Ä '
-    ' ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
+    ' © ™ £ € ‸ § | [ ] ˝ ± \u{301}
+      • , É ˇ Þ ˘ ˀ ʼ Œ ˙ ˚ \u{308}
+      ¯ SS Ð ƒ . ˛ \u{A0}\u{330} ˜ - Ö Ä '
+    ≤ ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
   # ctrlL+cmd?+optL?+caps?+shift? ctrlL+optR+cmd?+optL?+caps?+shiftL?
   iso-ctrl: |
     ` 1 2 3 4 5 6 7 8 9 0 \u{1F} =
-    \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
-    \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
+      \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1B} \u{1D}
+      \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
     0 \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . /
   # cmd
   osx-cmd: |
-    < 1 2 3 4 5 6 7 8 9 0 + ´
-    q w e r t y u i o p å ¨
-    a s d f g h j k l ø æ @
-    ' z x c v b n m , . -
+    ' 1 2 3 4 5 6 7 8 9 0 + ´
+      q w e r t y u i o p å ¨
+      a s d f g h j k l ø æ @
+    < z x c v b n m , . -
   # cmd+opt+caps?
   osx-cmd+alt: |
-    ≤ © ™ £ € § \u{0} | [ ] ≈ ± `
-    • , é \u{0} ŧ µ ü ı œ þ ˙ ˜
-    ¯ ß ð ƒ \u{0} ħ ˝ ª ł ö ä '
-    € ÷ đ ¸ ‹ › ‘ ’ ‚ … –
+    € © ™ £ € § \u{0} | [ ] ≈ ± `
+      • , é \u{0} ŧ µ ü ı œ þ ˙ ˜
+      ¯ ß ð ƒ \u{0} ħ ˝ ª ł ö ä '
+    ≤ ÷ đ ¸ ‹ › ‘ ’ ‚ … –
 
 deadKeys:
   iso-default: ['¨', '´']
   iso-shift: ['`', 'ˆ']
   iso-caps: ['¨', '´']
-  iso-alt: [',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸']
+  iso-alt: [',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸', '\u{A0}\u{330}']
   iso-alt+shift: ['ʔ', '№']
   iso-caps+alt: [',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸']
   osx-cmd+alt: [',', '¯', '¸', '˙', '˜', '˝']
