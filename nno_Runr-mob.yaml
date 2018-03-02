@@ -1,11 +1,11 @@
 internalName: nno_Runr
 
 displayNames:
-  nn_Runr: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
+  nn-Runr: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
   nn: Norsk med runer
   en: Runic Nynorsk
 
-locale: nn_Runr
+locale: nn-Runr
 
 supportedTargets: [ios, android]
 
