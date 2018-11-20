@@ -31,11 +31,13 @@ targets:
     keyAlias: sami_keyboard
 
   ios: &AppleID
-    codeSignId: "Developer ID Installer: The University of Tromso (2K5J2584NX)"
+    codeSignId: "2K5J2584NX"
     provisioningProfileId: Test
     packageId: no.uit.giella.keyboards.nno
     bundleName: *bundleName
     icon: images/nno-runer.png
+    version: "1.0.0"
+    build: "1"
 
   osx:
     <<: *AppleID
