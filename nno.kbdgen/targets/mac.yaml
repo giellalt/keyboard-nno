@@ -1,0 +1,7 @@
+codeSignId: 2K5J2584NX
+provisioningProfileId: Test
+packageId: no.uit.giella.keyboards.nno
+bundleName: Norwegian Nynorsk Keyboards
+icon: images/nno-keyboard-menu-icon.png
+version: 0.1.0
+build: '1'
