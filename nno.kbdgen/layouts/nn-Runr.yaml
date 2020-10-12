@@ -112,6 +112,42 @@ modes:
       \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
       \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
       \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+
+longpress:
+  ᛆ: ᚨ ᚭ ᚪ ᛅ
+  ᛒ: ᛓ
+  ᛑ: ᛞ ᚦ ᚧ
+  ᛂ: ᛖ
+  ᚵ: ᚷ ᚸ ᛄ
+  ᚼ: ᚺ ᚻ ᚽ
+  ᛁ: ᛃ
+  ᚴ: ᚲ ᛩ ᛪ
+  ᛚ: ᛛ
+  ᛘ: ᛗ ᛙ
+  ᚿ: ᚾ ᛀ ᚶ ᛜ ᛝ
+  ᚮ: ᚩ ᚬ ᚭ ᛟ
+  ᛔ: ᛈ ᛕ
+  ᛌ: ᛋ ᛊ ᚳ ᛍ ᛣ ᛤ ᛎ
+  ᛐ: ᛏ ᚦ ᚧ
+  ᚡ: ᚥ ᚹ
+  ᛦ: ᚣ ᚤ ᛧ ᛨ
+  ᛫: ᛬ ᛭
+
+deadKeys:
+  mac:
+    default: [¨, ´]
+    shift: ['`', ˆ]
+    caps: [¨, ´]
+    alt: [˚, ˝, ‸]
+    caps+alt: [˚, ˝, ‸]
+    cmd+alt: [',', ¯, ¸, ˙, ˜, ˝]
+  win:
+    default: [¨]
+    shift: [^, '`']
+    caps: [¨]
+    caps+shift: [^, '`']
+    alt: ['~', ´]
+
 transforms:
   ',':
     ' ': ','
@@ -423,25 +459,7 @@ transforms:
     O: Õ
     u: ũ
     U: Ũ
-longpress:
-  ᛆ: ᚨ ᚭ ᚪ ᛅ
-  ᛒ: ᛓ
-  ᛑ: ᛞ ᚦ ᚧ
-  ᛂ: ᛖ
-  ᚵ: ᚷ ᚸ ᛄ
-  ᚼ: ᚺ ᚻ ᚽ
-  ᛁ: ᛃ
-  ᚴ: ᚲ ᛩ ᛪ
-  ᛚ: ᛛ
-  ᛘ: ᛗ ᛙ
-  ᚿ: ᚾ ᛀ ᚶ ᛜ ᛝ
-  ᚮ: ᚩ ᚬ ᚭ ᛟ
-  ᛔ: ᛈ ᛕ
-  ᛌ: ᛋ ᛊ ᚳ ᛍ ᛣ ᛤ ᛎ
-  ᛐ: ᛏ ᚦ ᚧ
-  ᚡ: ᚥ ᚹ
-  ᛦ: ᚣ ᚤ ᛧ ᛨ
-  ᛫: ᛬ ᛭
+
 space:
   mac:
     caps: '\u{A0}'
@@ -449,23 +467,11 @@ space:
     alt+shift: '\u{A0}'
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
+
 strings:
   space: ᛘᛁᛚᛚᚮᛘᚱᚢᛘ
   return: ᛚᛁᚿᛂᛋᚴᛁᚠᛐ
-deadKeys:
-  mac:
-    default: [¨, ´]
-    shift: ['`', ˆ]
-    caps: [¨, ´]
-    alt: [˚, ˝, ‸]
-    caps+alt: [˚, ˝, ‸]
-    cmd+alt: [',', ¯, ¸, ˙, ˜, ˝]
-  win:
-    default: [¨]
-    shift: [^, '`']
-    caps: [¨]
-    caps+shift: [^, '`']
-    alt: ['~', ´]
+
 targets:
   ios:
     legacyName: nno_runr
