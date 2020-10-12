@@ -4,6 +4,15 @@ displayNames:
   nn: Norsk med runer
   en: Runic Nynorsk
 modes:
+  mobile:
+    default: |
+      ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
+      ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+         ᚡ ᛒ ᚿ ᛘ ᛅ ᛫
+    shift: |
+      ᛖ ᚱ ᛏ ᚤ ᚢ ᛃ ᛟ ᛕ ᚭ
+      ᚨ ᛋ ᛑ ᚠ ᚵ ᚺ ᚲ ᛚ ᚯ
+         ᚥ ᛓ ᚾ ᛗ ᛅ ᛫
   mac:
     default: |
       ' 1 2 3 4 5 6 7 8 9 0 + ´
@@ -50,15 +59,6 @@ modes:
         • , é \u{0} ŧ µ ü ı œ þ ˙ ˜
         ¯ ß ð ƒ \u{0} ħ ˝ ª ł ö ä '
       ≤ ÷ đ ¸ ‹ › ‘ ’ ‚ … –
-  mobile:
-    default: |
-      ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
-      ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
-         ᚡ ᛒ ᚿ ᛘ ᛅ ᛫
-    shift: |
-      ᛖ ᚱ ᛏ ᚤ ᚢ ᛃ ᛟ ᛕ ᚭ
-      ᚨ ᛋ ᛑ ᚠ ᚵ ᚺ ᚲ ᛚ ᚯ
-         ᚥ ᛓ ᚾ ᛗ ᛅ ᛫
   win:
     default: |
       | 1 2 3 4 5 6 7 8 9 0 + \
