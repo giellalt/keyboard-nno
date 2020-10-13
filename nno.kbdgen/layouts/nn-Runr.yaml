@@ -30,6 +30,31 @@ modes:
       [ ] { } # % ^ * + =
       _ \ | ~ < > € $ £ •
       \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
+  ipad-9in:
+    default: |
+      \s{spacer:0.25} ᛭ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ  ᚮ ᛔ ᚭ \s{backspace}
+      \s{spacer:0.75}  ᛆ ᛌ  ᛑ ᚠ ᚵ ᚼ ᛁ ᚴ ᛚ ᚯ ᛅ \s{return:1.25}
+      \s{shift:1.1}   ᛫ ᛰ  ᛬ ᚡ ᛒ ᚿ ᛘ , . \s{shift:2.4}
+    shift: |
+      \s{spacer:0.25} ᛭ ᚡ ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ  ᚮ ᛔ ᚭ \s{backspace}
+      \s{spacer:0.75}  ᛆ ᛌ  ᛑ ᚠ ᚵ ᚼ ᛁ ᚴ ᛚ ᚯ ᛅ \s{return:1.25}
+      \s{shift:1.1}   ᛫ ᛰ  ᛬ ᚡ ᛒ ᚿ ᛘ ! ? \s{shift:2.4}
+    alt: |
+      \s{spacer:0.25} 1 2 3 4 5 6 7 8 9 0 ` \s{backspace}
+      \s{spacer:0.75} @ # € & * ( ) ' " + ´ \s{return:1.25}
+      \s{shift:1.1}   % _ - = / ; : ! ? \s{shift:2.4}
+    alt+shift: |
+      \s{spacer:0.25} 1 2 3 4 5 6 7 8 9 0 ` \s{backspace}
+      \s{spacer:0.75} @ # € & * ( ) ' " + ´ \s{return:1.25}
+      \s{shift:1.1}   % _ - = / ; : ! ? \s{shift:2.4}
+    symbols-1: |
+      \s{spacer:0.25} 1 2 3 4 5 6 7 8 9 0 ` \s{backspace}
+      \s{spacer:0.75} @ # € & * ( ) ' " + • \s{return:1.25}
+      \s{shiftSymbols:1.1} % _ - = / ; : , . \s{shiftSymbols:2.4}
+    symbols-2: |
+      \s{spacer:0.25} 1 2 3 4 5 6 7 8 9 0 ´\s{backspace}
+      \s{spacer:0.25} $ £ ¥ ^ [ ] { } — ° … \s{return:1.25}
+      \s{shiftSymbols:1.1} § | ~ ≠ \ < > ! ? \s{shiftSymbols:2.4}
   mac:
     default: |
       ' 1 2 3 4 5 6 7 8 9 0 + ´
