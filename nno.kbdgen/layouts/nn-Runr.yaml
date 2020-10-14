@@ -521,7 +521,7 @@ space:
 
 strings:
   space: ᛘᛁᛚᛚᚮᛘᚱᚢᛘ
-  return: ᛚᛁᚿᛂᛋᚴᛁᚠᛐ
+  return: "ᛚᛁᚿᛂ\u00ADᛌᚴᛁᚠᛐ"
 
 targets:
   ios:
