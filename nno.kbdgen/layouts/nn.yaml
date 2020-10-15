@@ -123,9 +123,9 @@ strings:
 targets:
   ios:
     legacyName: nno
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sme?channel=nightly&platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=mobile
     spellerPath: nn.bhfst
   android:
     legacyName: nno
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sme?channel=nightly&platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=mobile
     spellerPath: nn.bhfst
