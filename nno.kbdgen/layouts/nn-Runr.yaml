@@ -526,8 +526,12 @@ strings:
 targets:
   ios:
     legacyName: nno_runr
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=desktop
+    spellerPath: nn-Runr.bhfst
   android:
     legacyName: nno_runr
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=desktop
+    spellerPath: nn-Runr.bhfst
   win:
     locale: nn-Runr
     languageName: ᚱᚢᚿᛂᚿᚮᚱᛋᚴ
