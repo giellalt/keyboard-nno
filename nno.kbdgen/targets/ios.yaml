@@ -3,4 +3,4 @@ provisioningProfileId: Test
 packageId: no.uit.giella.keyboards.nno
 bundleName: Norwegian Nynorsk Keyboards
 version: 1.0.0
-build: '1'
+build: 1
