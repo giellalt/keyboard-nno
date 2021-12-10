@@ -1,3 +1,4 @@
+# Documentation for the __UNDEFINED__ keyboards
 Why a nynorsk keyboard? «There is already Norwegian keyboards
 everywhere» you may point out. That is of course absolutely true, and
 for desktop systems there is no need for a nynorsk Norwegian keyboard.
@@ -16,9 +17,7 @@ systems and applications are playing along when presented with things a
 bit outside the standard. Most of our languages are a bit outside the
 standard majority languages.
 
-## Readme
 
-The Readme accompagnying the installer can be read [here](readme.html).
 
 ## Layouts
 
