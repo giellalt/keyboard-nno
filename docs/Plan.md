@@ -107,6 +107,7 @@ Ligaturar/digrafar:
 
 
 Punktteikn:
+
 |   Rune | Unicode-namn   | Unicode-kode
 | --- | --- | --- 
 |  ᛫ | runic single punctuation    | u+16eb
@@ -115,6 +116,7 @@ Punktteikn:
 
 
 Uklassifiserte:
+
 |   Rune | Unicode-namn   | Unicode-kode
 | --- | --- | --- 
 |  ᛇ | runic letter iwaz eoh    | u+16c7
