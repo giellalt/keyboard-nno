@@ -337,8 +337,7 @@ alle runer som er definerte i Unicode.
 Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 
 
-* [Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling,
-University of Oslo, 2001|http://urn.nb.no/URN:NBN:no-27534]
+* [Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling, University of Oslo, 2001](http://urn.nb.no/URN:NBN:no-27534)
 * [Wikipedia 1](https://en.wikipedia.org/wiki/Runic_(Unicode_block)) \\
   Merknaden der om Belgthor stemmer ikkje med det Nordby skriv om runer for X. I
   fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runen for X.
