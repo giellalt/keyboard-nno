@@ -9,8 +9,9 @@
 
 ## ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (macOS)
 
-  
+![Runetastatur for macOS](nno_Runr_mac.svg)
 
 ## ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (Windows)
 
-  
+![Runetastatur for Windows](nno_Runr_win.svg)
+
