@@ -298,22 +298,49 @@ eigentleg er grunnlag for, eller som er teknisk uhaldbare.
 Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet,
 skulle det kunna sjå slik ut:
 
-```
-f u Þ o r k/q
-ᚠ ᚢ ᚦ ᚮ ᚱ ᚴ
+## Frøy / ᚠᚱᚯᛦ
 
+Rune | Runenamn | Latinsk(e) bokstav(ar)
+---- | -------- | --------------------
+ ᚠ   | ᚠᛂ / fe  | f
+ ᚢ   | ?        | u
+ ᚦ   | ᚦᚮᚱᚿ / thorn | th
+ ᚮ   | ?        | o
+ ᚱ   | ?        | r
+ ᚴ   | ?        | k (c, q)
 
-h n i/j a s(/c/z)
-ᚼ ᚿ  ᛁ   ᛆ  ᛌ (/ᛋ)
+## Hagl / ᚼᛆᚵᛚ
 
+Rune | Runenamn | Latinsk(e) bokstav(ar)
+---- | -------- | --------------------
+ ᚼ   | ᚼᛆᚵᛚ / hagl | h
+ ᚿ   | ?        | n
+ ᛁ   | ᛁᛌ / is    | i, j
+ ᛆ   | ?        | a
+ ᛌ   | ?        | s (c, z)
 
-t b m l y
-ᛐ ᛒ ᛘ ᛚ ᛦ   
+## Ty / ᛐᛦ
 
+Rune | Runenamn | Latinsk(e) bokstav(ar)
+---- | -------- | --------------------
+ ᛐ   | ᛐᛦ / ty | t
+ ᛒ   | ?        | b
+ ᛘ  | ᛘᛆᚿᚿ / mann | m
+ ᛚ   | ?        | l
+ ᛦ   | ?       | y
 
-g e d p æ ø v/w (x) å
-ᚵ ᛂ  ᛑ ᛔ ᛅ ᚯ ᚡ   (ᛰ) ᚭ
-```
+## Gåve / ᚵᚭᚡᛂ
+
+Rune | Runenamn | Latinsk(e) bokstav(ar)
+---- | -------- | --------------------
+ ᚵ   | ?        | g
+ ᛂ   | ?        | e
+ ᛑ   | ?        | d
+ ᛔ   | ?        | p
+ ᛅ   | ?        | æ
+ ᚯ   | ?        | ø
+ ᚡ   | ?        | v (w)
+ ᚭ   | ?        | å
 
 
 Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
