@@ -327,13 +327,13 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
  ᛒ   | ᛒᛁᚯᚱᚴ / bjørk | b
  ᛘ  | ᛘᛆᚿᚿ / mann | m
  ᛚ   | ᛚᚮᚵ / log | l
- ᛦ   | ?       | y
+ ᛦ   | ᛦᚱ / yr | y
 
 ## Gåve / ᚵᚭᚡᛂ
 
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
- ᚵ   | ?        | g
+ ᚵ   | ᚵᚭᚡᛂ / gåve | g
  ᛂ   | ?        | e
  ᛑ   | ᛑᛆᚵ / dag | d
  ᛔ   | ?        | p
