@@ -17,27 +17,23 @@ I dag er det i prinsippet enkelt å skriva med runer. Alle runene er definerte i
 Unicode, og dei fleste operativsystem inneheld minst ei skrift som kan visa
 runene meir eller mindre rett.
 
-
 I praksis er det likevel ikkje enkelt. Dels finst det ikkje tastatur slik at det
 blir veldig tungvint å mata inn runene. Og dels finst det ganske mange runer og
 alternative former for dei ulike lydane. Kva for ein rune skal ein velja for dei
 ulike lydane i språket?
-
 
 Målet med dette arbeidet er dels å slå fast ei runerekkje som kunne vera høveleg
 for å skriva moderne norsk, dels å prøva ut tastaturteknologien vår på andre
 skriftsystem, og med det testa både tastaturteknologien og operativsystema. Kor
 godt fungerer ting?
 
-
 Når det gjeld runerekkja så er tanken at den i så stor grad som mogleg skal
 byggja på dei runene som har vore i bruk i Noreg, slik dei er dokumenterte t.d.
 i Nordby (2001). Grunnideen er å ta utgangspunkt i den vanlegaste runerekkja frå
-1200-talet, komplettert med nokre fåe tillegg frå etterreformatorisk bruk. I eitt
+12-1300-talet. I eitt
 tilfelle (Å) finst det ingen tidlegare runer i det heile frå denne perioden, og
 ulike alternativ blir diskutert lenger ned, med ein konklusjon om eit fungerande
 val.
-
 
 Denne runerekkja er plassert på tastane med dei tilsvarande latinske bokstavane.
 Dermed vil det vera lett å skriva norsk med dette runetastaturet - ein trykkjer
@@ -150,6 +146,7 @@ f u Þ o r k h n i a s t b m l y   g e d p æ ø c/z v
 
 
 Eller alfabetisk:
+
 ```
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ ᛋ ᛑ  ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ   ᚱ ᛌ ᛐ ᚢ ᚡ     ᛦ ᛋ ᛅ ᚯ
@@ -157,6 +154,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 
 
 Oppsummering av etterreformatoriske runer (Nordby 2001):
+
 ```
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ ᛎ  ᚦ ᛂ ᚠ ᚵ ᚼ ᛁ    ᚴ ᛚ ᛘ ᚿ ᚮ ᛔ  ᚴ ᚱ ᛋ ᛏᛐ ᚢ ᚡ  ᛰ ᚤ ᛦ ᛅ ᚯ
@@ -292,6 +290,14 @@ Innvendinga at Å ikkje høyrer til runeinventaret i middelalderrunene er ikkje
 god nok til å forkasta det alternativet framfor dei andre alternativa, som anten
 viser til ei enno eldre form, eller som nyttar kombinasjonar som det ikkje
 eigentleg er grunnlag for, eller som er teknisk uhaldbare.
+
+# Endeleg forslag
+
+```
+a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
+ᛆ ᛒ  ᛌ ᛑ  ᛂ ᚠ ᚵ ᚼ  ᛁ   ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ ᚴ ᚱ ᛌ  ᛐ ᚢ  ᚡ ᚴᛌ ᛦ ᛌ ᛅ ᚯ ᚭ
+```
+
 
 # Ætter
 
