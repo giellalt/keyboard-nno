@@ -331,10 +331,14 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
 
 ## Gåve / ᚵᚭᚡᛂ
 
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet er teken frå namnet på fyrste runa i ætta, slik som for hagl- og ty-ættene.
+
+Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
+
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
  ᚵ   | ᚵᚭᚡᛂ / gåve | g
- ᛂ   | ?        | e
+ ᛂ   | ᛂᛚᚠ / elg | e
  ᛑ   | ᛑᛆᚵ / dag | d
  ᛔ   | ?        | p
  ᛅ   | ?        | æ
@@ -346,7 +350,6 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
 Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
 
 # Tastaturutforming
-
 
 Plasseringa av runene er slik at dei ligg på dei same tastane som dei norske
 bokstavane med tilsvarande lydverdi.
