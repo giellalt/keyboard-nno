@@ -303,30 +303,30 @@ skulle det kunna sjå slik ut:
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
  ᚠ   | ᚠᛂ / fe  | f
- ᚢ   | ?        | u
- ᚦ   | ᚦᚮᚱᚿ / thorn | th
+ ᚢ   | ᚢᚱ / ur  | u
+ ᚦ   | ᚦᚢᛌᛌ / tuss | th
  ᚮ   | ?        | o
- ᚱ   | ?        | r
- ᚴ   | ?        | k (c, q)
+ ᚱ   | ᚱᛂᛁᛑ / reid | r
+ ᚴ   | ᚴᛆᚢᚿ / kaun | k (c, q)
 
 ## Hagl / ᚼᛆᚵᛚ
 
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
  ᚼ   | ᚼᛆᚵᛚ / hagl | h
- ᚿ   | ?        | n
+ ᚿ   | ᚿᛆᚢᛑ / naud | n
  ᛁ   | ᛁᛌ / is    | i, j
  ᛆ   | ?        | a
- ᛌ   | ?        | s (c, z)
+ ᛌ   | ᛌᚮᛚ / sol | s (c, z)
 
 ## Ty / ᛐᛦ
 
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
- ᛐ   | ᛐᛦ / ty | t
- ᛒ   | ?        | b
+ ᛐ   | ᛐᛦ / Ty | t
+ ᛒ   | ᛒᛁᚯᚱᚴ / bjørk | b
  ᛘ  | ᛘᛆᚿᚿ / mann | m
- ᛚ   | ?        | l
+ ᛚ   | ᛚᚮᚵ / log | l
  ᛦ   | ?       | y
 
 ## Gåve / ᚵᚭᚡᛂ
@@ -335,12 +335,12 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
  ᚵ   | ?        | g
  ᛂ   | ?        | e
- ᛑ   | ?        | d
+ ᛑ   | ᛑᛆᚵ / dag | d
  ᛔ   | ?        | p
  ᛅ   | ?        | æ
  ᚯ   | ?        | ø
  ᚡ   | ?        | v (w)
- ᚭ   | ?        | å
+ ᚭ   | ᚭᛌ / ås   | å
 
 
 Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
