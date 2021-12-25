@@ -305,7 +305,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
  ᚠ   | ᚠᛂ / fe  | f
  ᚢ   | ᚢᚱ / ur  | u
  ᚦ   | ᚦᚢᛌᛌ / tuss | th
- ᚮ   | ?        | o
+ ᚮ   | ᚮᛌ / os | o
  ᚱ   | ᚱᛂᛁᛑ / reid | r
  ᚴ   | ᚴᛆᚢᚿ / kaun | k (c, q)
 
