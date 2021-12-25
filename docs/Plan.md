@@ -327,9 +327,10 @@ bokstavane med tilsvarande lydverdi.
 
 
 Alle andre runer enn dei som er relevante for å skriva norsk skal bli
-tilgjengelege via Skift- og AltGr-tastane. Det vil difor bli mogleg å skriva
+tilgjengelege via Skift- og AltGr-tastane. Det vil difor vera mogleg å skriva
 alle runer som er definerte i Unicode.
 
+I mobiltastaturet ligg alle variantane på langtrykk.
 
 # Kjelder
 
