@@ -181,31 +181,6 @@ Dette er òg relativt nære den etterreformatoriske bruken av runer i Noreg, sj�
 om det er visse skilnader. Sjå elles Nordby (2001), og merknadene nedanfor.
 
 
-Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet,
-skulle det kunna sjå slik ut:
-
-
-```
-f u Þ o r k/q
-ᚠ ᚢ ᚦ ᚮ ᚱ ᚴ
-
-
-h n i/j a s(/c/z)
-ᚼ ᚿ  ᛁ   ᛆ  ᛌ (/ᛋ)
-
-
-t b m l y
-ᛐ ᛒ ᛘ ᛚ ᛦ   
-
-
-g e d p æ ø v/w (x) å
-ᚵ ᛂ  ᛑ ᛔ ᛅ ᚯ ᚡ   (ᛰ) ᚭ
-```
-
-
-Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
-
-
 ## Merknader
 
 
@@ -318,6 +293,30 @@ god nok til å forkasta det alternativet framfor dei andre alternativa, som ante
 viser til ei enno eldre form, eller som nyttar kombinasjonar som det ikkje
 eigentleg er grunnlag for, eller som er teknisk uhaldbare.
 
+# Ætter
+
+Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet,
+skulle det kunna sjå slik ut:
+
+```
+f u Þ o r k/q
+ᚠ ᚢ ᚦ ᚮ ᚱ ᚴ
+
+
+h n i/j a s(/c/z)
+ᚼ ᚿ  ᛁ   ᛆ  ᛌ (/ᛋ)
+
+
+t b m l y
+ᛐ ᛒ ᛘ ᛚ ᛦ   
+
+
+g e d p æ ø v/w (x) å
+ᚵ ᛂ  ᛑ ᛔ ᛅ ᚯ ᚡ   (ᛰ) ᚭ
+```
+
+
+Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
 
 # Tastaturutforming
 
