@@ -293,6 +293,8 @@ eigentleg er grunnlag for, eller som er teknisk uhaldbare.
 
 # Endeleg forslag
 
+Tufta på det som er nemnt over, er det endelege forslaget til eit runealfabet slik:
+
 ```
 a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ᛆ ᛒ  ᛌ ᛑ  ᛂ ᚠ ᚵ ᚼ  ᛁ   ᚴ ᛚ ᛘ ᚿ ᚮ  ᛔ ᚴ ᚱ ᛌ  ᛐ ᚢ  ᚡ ᚴᛌ ᛦ ᛌ ᛅ ᚯ ᚭ
@@ -301,19 +303,19 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 
 # Ætter
 
-Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet,
+Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet (jf Nordby 2001, s. 29),
 skulle det kunna sjå slik ut:
 
 ## Frøy / ᚠᚱᚯᛦ
 
-Rune | Runenamn | Latinsk(e) bokstav(ar)
----- | -------- | --------------------
+Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
+---- | -------- | --------- | ------
  ᚠ   | ᚠᛂ / fe  | f
- ᚢ   | ᚢᚱ / ur  | u
- ᚦ   | ᚦᚢᛌᛌ / tuss | th
+ ᚢ   | ᚢᚱ / ur  | u | urokse
+ ᚦ   | ᚦᚢᛌᛌ / tuss | t(h)
  ᚮ   | ᚮᛌ / os | o
  ᚱ   | ᚱᛂᛁᛑ / reid | r
- ᚴ   | ᚴᛆᚢᚿ / kaun | k (c, q)
+ ᚴ   | ᚴᚮᚿᚵ / kong | k (c, q) | norrønt _kaun_, = byll, svoll
 
 ## Hagl / ᚼᛆᚵᛚ
 
@@ -327,25 +329,25 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
 
 ## Ty / ᛐᛦ
 
-Rune | Runenamn | Latinsk(e) bokstav(ar)
----- | -------- | --------------------
- ᛐ   | ᛐᛦ / Ty | t
+Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
+---- | -------- | --------- | -----
+ ᛐ   | ᛐᛦ / Ty | t | gudenamnet, som i _tysdag_
  ᛒ   | ᛒᛁᚯᚱᚴ / bjørk | b
  ᛘ  | ᛘᛆᚿᚿ / mann | m
- ᛚ   | ᛚᚮᚵ / log | l
+ ᛚ   | ᛚᚮᚵ / log | l | utkok, plantesaft
  ᛦ   | ᛦᚱ / yr | y
 
 ## Gåve / ᚵᚭᚡᛂ
 
-Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet er teken frå namnet på fyrste runa i ætta, slik som for hagl- og ty-ættene.
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet er teken frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene.
 
 Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
-Rune | Runenamn | Latinsk(e) bokstav(ar)
+Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 ---- | -------- | --------------------
- ᚵ   | ᚵᚭᚡᛂ / gåve | g
- ᛂ   | ᛂᛚᚠ / elg | e
- ᛑ   | ᛑᛆᚵ / dag | d
+ ᚵ   | ᚵᚭᚡᛂ / gåve | g | Sjølve runen er nylaga, men namnet er gamalt
+ ᛂ   | ᛂᛚᚠ / elg | e | "
+ ᛑ   | ᛑᛆᚵ / dag | d | "
  ᛔ   | ?        | p
  ᛅ   | ?        | æ
  ᚯ   | ?        | ø
@@ -353,13 +355,10 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
  ᚭ   | ᚭᛌ / ås   | å
 
 
-Jf Nordby s. 29 («Den vanlige norske futharken med tilleggstegn fra 1200-tallet»).
-
 # Tastaturutforming
 
-Plasseringa av runene er slik at dei ligg på dei same tastane som dei norske
+[Plasseringa av runene](layout.md) er slik at dei ligg på dei same tastane som dei norske
 bokstavane med tilsvarande lydverdi.
-
 
 Alle andre runer enn dei som er relevante for å skriva norsk skal bli
 tilgjengelege via Skift- og AltGr-tastane. Det vil difor vera mogleg å skriva
@@ -369,9 +368,7 @@ I mobiltastaturet ligg alle variantane på langtrykk.
 
 # Kjelder
 
-
 Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
-
 
 * [Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling, University of Oslo, 2001](http://urn.nb.no/URN:NBN:no-27534)
 * [Wikipedia 1](https://en.wikipedia.org/wiki/Runic_(Unicode_block)) \\
@@ -380,7 +377,6 @@ Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 * [Wikipedia 2](https://en.wikipedia.org/wiki/Runes)
 * [Arild Hauge sine sider om runer](http://www.arild-hauge.com/eindex.htm)
 * [Unicode](http://unicode.org/)
-
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje
 stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna.
