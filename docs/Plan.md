@@ -360,7 +360,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 [Plasseringa av runene](layout.md) er slik at dei ligg på dei same tastane som dei norske
 bokstavane med tilsvarande lydverdi.
 
-Alle andre runer enn dei som er relevante for å skriva norsk skal bli
+Alle andre runer enn dei som er relevante for å skriva norsk er
 tilgjengelege via Skift- og AltGr-tastane. Det vil difor vera mogleg å skriva
 alle runer som er definerte i Unicode.
 
