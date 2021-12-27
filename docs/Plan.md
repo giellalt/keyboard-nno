@@ -382,7 +382,9 @@ Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
   fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runen for X.
 * [Wikipedia 2](https://en.wikipedia.org/wiki/Runes)
 * [Arild Hauge sine sider om runer](http://www.arild-hauge.com/eindex.htm)
-* [Unicode](http://unicode.org/)
+* [Unicode](https://unicode.org/)
+* [Store norske leksikon](https://snl.no/runer)
+* [Allkunne](https://www.allkunne.no/framside/sprak/skriftsystem-og-skriftteikn/runer/2090/86356/)
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje
 stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna.
