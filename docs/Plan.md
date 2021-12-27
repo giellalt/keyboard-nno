@@ -301,7 +301,13 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
 ```
 
 
-# Ætter
+# Ætter og runenamn
+
+Heilt frå opphavet har det 24 runene hatt namn, og vore ordna i ætter, i tre ætter med åtte runer kvar. Med overgangen til dei yngre runene vart runerekka redusert til berre seksten runer, men framleis ordna i tre ætter.
+
+Med middelalderrunene vart runerekkja utvida igjen, fremst med stungne runer, for å betre skilja dei ulike fonema frå kvarandre i skrift. Desse nye runene hamna sist i runerekkja, og formar soleis naturleg ei ny ætt.
+
+
 
 Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet (jf Nordby 2001, s. 29),
 skulle det kunna sjå slik ut:
