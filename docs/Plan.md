@@ -307,7 +307,7 @@ Heilt frå opphavet har det 24 runene hatt namn, og vore ordna i ætter, i tre �
 
 Med middelalderrunene vart runerekkja utvida igjen, fremst med stungne runer, for å betre skilja dei ulike fonema frå kvarandre i skrift. Desse nye runene hamna sist i runerekkja, og formar soleis naturleg ei ny ætt.
 
-
+Det er òg ført opp (forslag til) namn på runene, basert på norrøne namn der slike finst eller høver. Namn merkte med * er gamle namn som vart nytta på runer som seinare gjekk or bruk, men som her er tekne fram att for nye runer med dei same lydverdiane. Namn merkte med † er heilt nye namn (mine forslag).
 
 Ordna etter ætter, dvs som ein futhork basert på materialet frå 1200-talet (jf Nordby 2001, s. 29),
 skulle det kunna sjå slik ut:
@@ -319,7 +319,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
  ᚠ   | ᚠᛂ / fe  | f
  ᚢ   | ᚢᚱ / ur  | u | urokse
  ᚦ   | ᚦᚢᛌᛌ / tuss | t(h)
- ᚮ   | ᚮᛌ / os | o
+ ᚮ   | ᚮᛌ / os \ odel* | o
  ᚱ   | ᚱᛂᛁᛑ / reid | r
  ᚴ   | ᚴᚮᚿᚵ / kong | k (c, q) | norrønt _kaun_, = byll, svoll
 
@@ -330,7 +330,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
  ᚼ   | ᚼᛆᚵᛚ / hagl | h
  ᚿ   | ᚿᛆᚢᛑ / naud | n
  ᛁ   | ᛁᛌ / is    | i, j
- ᛆ   | ?        | a
+ ᛆ   | / adel†   | a
  ᛌ   | ᛌᚮᛚ / sol | s (c, z)
 
 ## Ty / ᛐᛦ
@@ -340,24 +340,24 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
  ᛐ   | ᛐᛦ / Ty | t | gudenamnet, som i _tysdag_
  ᛒ   | ᛒᛁᚯᚱᚴ / bjørk | b
  ᛘ  | ᛘᛆᚿᚿ / mann | m
- ᛚ   | ᛚᚮᚵ / log | l | utkok, plantesaft
+ ᛚ   | ᛚᚮᚵ / log \ lauk | l | utkok, plantesaft - det finst to namn for denne runen(?)
  ᛦ   | ᛦᚱ / yr | y
 
-## Gåve / ᚵᚭᚡᛂ
+## Middelalderrunene
 
-Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet er teken frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene.
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst, men det krev meir arbeid og grundigare undersøkingar. Difor blir namnet på ætta inntil vidare ope, og rekkjefylgja nedanfor meir eller mindre lik Nordby 2001, utan at det ligg noko meir i denne rekkjefylgja. Andre kjelder har anna rekkjefylgje.
 
 Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
 Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 ---- | -------- | --------------------
- ᚵ   | ᚵᚭᚡᛂ / gåve | g | Sjølve runen er nylaga, men namnet er gamalt
- ᛂ   | ᛂᛚᚠ / elg | e | "
- ᛑ   | ᛑᛆᚵ / dag | d | "
- ᛔ   | ?        | p
- ᛅ   | ?        | æ
- ᚯ   | ?        | ø
- ᚡ   | ?        | v (w)
+ ᚵ   | ᚵᚭᚡᛂ / gåve* | g
+ ᛂ   | ᛂᛚᚠ / elg* | e
+ ᛑ   | ᛑᛆᚵ / dag* | d
+ ᛔ   | / pigg†  | p
+ ᛅ   | / ætt†   | æ
+ ᚯ   | / øyk*   | ø
+ ᚡ   | / ven*   | v (w)
  ᚭ   | ᚭᛌ / ås   | å
 
 
