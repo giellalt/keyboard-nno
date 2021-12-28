@@ -343,9 +343,9 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
  ᛚ   | ᛚᚮᚵ / log \ lauk | l | utkok, plantesaft - det finst to namn for denne runen(?)
  ᛦ   | ᛦᚱ / yr | y
 
-## Middelalderrunene
+## Middelalderrunene - Elg / ᛂᛚᚵ?
 
-Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst. Rekkjefylgja nedanfor er basert på opplysningane i artikkelen om runer i Store norske leksikon.
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst. Rekkjefylgja nedanfor er basert på opplysningane i artikkelen om runer i Store norske leksikon. Stemmer dette, så skulle ættenamnet i så fall bli *elg* (ᛂᛚᚵ).
 
 Alle *runene* i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
