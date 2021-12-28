@@ -351,13 +351,13 @@ Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (
 
 Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
- ᚵ   | ᚵᚭᚡᛂ / gåve* | g
  ᛂ   | ᛂᛚᚠ / elg* | e
+ ᛅ   | ᛅᛐᛐ / ætt†   | æ
+ ᚯ   | ᚯᛦᚴ / øyk*   | ø
+ ᚵ   | ᚵᚭᚡᛂ / gåve* | g
  ᛑ   | ᛑᛆᚵ / dag* | d
- ᛔ   | / pigg†  | p
- ᛅ   | / ætt†   | æ
- ᚯ   | / øyk*   | ø
- ᚡ   | / ven*   | v (w)
+ ᛔ   | ᛔᛁᚵᚵ / pigg†  | p
+ ᚡ   | ᚡᛂᚿ / ven*   | v (w)
  ᚭ   | ᚭᛌ / ås   | å
 
 
