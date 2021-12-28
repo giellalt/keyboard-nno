@@ -349,7 +349,7 @@ Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør ta
 
 Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
-Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
+Rune | Runenamn | Latinsk(e) bokstav(ar)
 ---- | -------- | --------------------
  ᚵ   | ᚵᚭᚡᛂ / gåve* | g
  ᛂ   | ᛂᛚᚠ / elg* | e
