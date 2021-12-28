@@ -345,7 +345,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 
 ## Middelalderrunene
 
-Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst, men det krev meir arbeid og grundigare undersøkingar. Difor blir namnet på ætta inntil vidare ope, og rekkjefylgja nedanfor meir eller mindre lik Nordby 2001, utan at det ligg noko meir i denne rekkjefylgja. Andre kjelder har anna rekkjefylgje.
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst. Rekkjefylgja nedanfor er basert på opplysningane i artikkelen om runer i Store norske leksikon.
 
 Alle runene i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
