@@ -340,7 +340,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
  ᛐ   | ᛐᛦ / Ty | t | gudenamnet, som i _tysdag_
  ᛒ   | ᛒᛁᚯᚱᚴ / bjørk | b
  ᛘ  | ᛘᛆᚿᚿ / mann | m
- ᛚ   | ᛚᚮᚵ / log \ lauk | l | utkok, plantesaft - det finst to namn for denne runen(?)
+ ᛚ   | ᛚᚮᚵ / log | l | utkok, plantesaft
  ᛦ   | ᛦᚱ / yr | y
 
 ## Middelalderrunene - Elg / ᛂᛚᚵ?
