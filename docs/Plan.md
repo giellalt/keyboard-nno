@@ -319,7 +319,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
  ᚠ   | ᚠᛂ / fe  | f
  ᚢ   | ᚢᚱ / ur  | u | urokse
  ᚦ   | ᚦᚢᛌᛌ / tuss | t(h)
- ᚮ   | ᚮᛌ / os \ odel* | o
+ ᚮ   | ᚮᛌ / os | o
  ᚱ   | ᚱᛂᛁᛑ / reid | r
  ᚴ   | ᚴᚮᚿᚵ / kong | k (c, q) | norrønt _kaun_, = byll, svoll
 
