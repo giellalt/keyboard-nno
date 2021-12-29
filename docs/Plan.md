@@ -330,7 +330,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar)
  ᚼ   | ᚼᛆᚵᛚ / hagl | h
  ᚿ   | ᚿᛆᚢᛑ / naud | n
  ᛁ   | ᛁᛌ / is    | i, j
- ᛆ   | / adel†   | a
+ ᛆ   | ᛆᚱ / år    | a
  ᛌ   | ᛌᚮᛚ / sol | s (c, z)
 
 ## Ty / ᛐᛦ
