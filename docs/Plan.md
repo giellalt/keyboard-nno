@@ -37,7 +37,7 @@ val.
 
 Denne runerekkja er plassert på tastane med dei tilsvarande latinske bokstavane.
 Dermed vil det vera lett å skriva norsk med dette runetastaturet - ein trykkjer
-den norske tasten ein ventar seg, og får i staden den tilsvarande runen frå den
+den norske tasten ein ventar seg, og får i staden den tilsvarande runa frå den
 føreslegne runerekkja.
 
 
@@ -213,13 +213,13 @@ etterreformatorisk til saman med varianten med kvist på begge sider.
 * **W**:  = V, sjå merknad til C.
 
 
-* **X**:  eg har lagt inn runen som er nytta etterreformatorisk, men i utgangspunktet
+* **X**:  eg har lagt inn runa som er nytta etterreformatorisk, men i utgangspunktet
 trengst ikkje x, sjå merknad til C. I mellomalderinnskrifter med latinske
 låneord som med latinske bokstavar vart skrivne med X nytta ein vanlegvis runene
 for K og S.
 
 
-* **Y**:  eg har nytta runen frå den yngre runerekkja. Den etterreformatoriske
+* **Y**:  eg har nytta runa frå den yngre runerekkja. Den etterreformatoriske
 varianten er tilgjengeleg via Skift-Y.
 
 
@@ -268,7 +268,7 @@ problema med å få det til å sjå ut slik det burde vera.
 ### Alternativ 3
 Eit tredje alternativ er å nytta ᚨ, som jo eigentleg er ein A-rune (Ansuz), som
 i norrønt går over til å tyda á/ó, som i Óss/Áss. Lang A (Á) svarar til Å i
-moderne norsk, dvs Å som i Åsgard. Hovudargumentet mot å nytta denne runen for Å
+moderne norsk, dvs Å som i Åsgard. Hovudargumentet mot å nytta denne runa for Å
 er at han er lite brukt frå og med overgangen til den yngre runerekka, og
 deretter gjekk heilt or bruk.
 
@@ -345,7 +345,7 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 
 ## Middelalderrunene - Elg / ᛂᛚᚵ?
 
-Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runen i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst. Rekkjefylgja nedanfor er basert på opplysningane i artikkelen om runer i Store norske leksikon. Stemmer dette, så skulle ættenamnet i så fall bli *elg* (ᛂᛚᚵ).
+Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør takast frå namnet på fyrste runa i ætta, slik som for hagl- og ty-ættene, men rekkjefylgja på desse runene er tilfeldig, i fylgje Nordby 2001, s. 29. Eit prinsipp for å bestemma rekkjefylgja kunne vera alderen til runene, med dei eldste fyrst. Rekkjefylgja nedanfor er basert på opplysningane i artikkelen om runer i Store norske leksikon. Stemmer dette, så skulle ættenamnet i så fall bli *elg* (ᛂᛚᚵ).
 
 Alle *runene* i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
@@ -379,7 +379,7 @@ Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 * [Nordby, Jonas. Etterreformatoriske runeinnskrifter i Norge. Doktoravhandling, University of Oslo, 2001](http://urn.nb.no/URN:NBN:no-27534)
 * [Wikipedia 1](https://en.wikipedia.org/wiki/Runic_(Unicode_block)) \\
   Merknaden der om Belgthor stemmer ikkje med det Nordby skriv om runer for X. I
-  fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runen for X.
+  fylgje Nordby er Belgthor den vanlegaste etterreformatoriske runa for X.
 * [Wikipedia 2](https://en.wikipedia.org/wiki/Runes)
 * [Arild Hauge sine sider om runer](http://www.arild-hauge.com/eindex.htm)
 * [Unicode](https://unicode.org/)
