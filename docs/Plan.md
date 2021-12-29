@@ -385,6 +385,7 @@ Kjelde for runealfabet og futhark, brukt som grunnlag for forslaget mitt:
 * [Unicode](https://unicode.org/)
 * [Store norske leksikon](https://snl.no/runer)
 * [Allkunne](https://www.allkunne.no/framside/sprak/skriftsystem-og-skriftteikn/runer/2090/86356/)
+* [An Icelandic-English Dictionary](https://old-norse.net/search.php) (Richard Cleasby and Guðbrand Vigfússon, *Oxford*, 1874)
 
 Sjølv om begge wikipediaartiklane er velskrivne, er det nokre ting som ikkje
 stemmer med det Nordby skriv, t.d. om kontinuiteten i bruken av runer i Dalarna.
