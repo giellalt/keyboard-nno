@@ -349,16 +349,16 @@ Denne ætta er ei nylaging, opphavleg fanst det berre tre ætter. Namnet bør ta
 
 Alle *runene* i denne ætta er nylagingar frå middelalderen, med unnatak av ᚭ (å), sjå over.
 
-Rune | Runenamn | Latinsk(e) bokstav(ar)
----- | -------- | --------------------
- ᛂ   | ᛂᛚᚠ / elg* | e
- ᛅ   | ᛅᛐᛐ / ætt†   | æ
- ᚯ   | ᚯᛦᚴ / øyk*   | ø
- ᚵ   | ᚵᚭᚡᛂ / gåve* | g
- ᛑ   | ᛑᛆᚵ / dag* | d
- ᛔ   | ᛔᛁᚵᚵ / pigg†  | p
- ᚡ   | ᚡᛂᚿ / ven*   | v (w)
- ᚭ   | ᚭᛌ / ås   | å
+Rune | Runenamn | Latinsk(e) bokstav(ar) | Alder
+---- | -------- | ---------------------- | -------
+ ᛂ   | ᛂᛚᚠ / elg*    | e      | Fyrste halvdel av 1000-talet
+ ᛅ   | ᛅᛐᛐ / ætt†    | æ      | Andre halvdel av 1000-talet
+ ᚯ   | ᚯᛦᚴ / øyk*   | ø      | Andre halvdel av 1000-talet
+ ᚵ   | ᚵᚭᚡᛂ / gåve*  | g     | 1100-talet
+ ᛑ   | ᛑᛆᚵ / dag*    | d     | 1100-talet
+ ᛔ   | ᛔᛁᚵᚵ / pigg†  | p     | 1100-talet
+ ᚡ   | ᚡᛂᚿ / ven*   | v (w)  | ukjent
+ ᚭ   | ᚭᛌ / ås       | å      | Ny bruk
 
 
 # Tastaturutforming
