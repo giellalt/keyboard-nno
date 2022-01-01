@@ -325,12 +325,12 @@ Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
 
 ## Hagl / ᚼᛆᚵᛚ
 
-Rune | Runenamn | Latinsk(e) bokstav(ar)
----- | -------- | --------------------
+Rune | Runenamn | Latinsk(e) bokstav(ar) | Merknad
+---- | -------- | ---------- | ----
  ᚼ   | ᚼᛆᚵᛚ / hagl | h
  ᚿ   | ᚿᛆᚢᛑ / naud | n
  ᛁ   | ᛁᛌ / is    | i, j
- ᛆ   | ᛆᚱ / år    | a
+ ᛆ   | ? | a | Ingen av dei gamle namna høver lenger
  ᛌ   | ᛌᚮᛚ / sol | s (c, z)
 
 ## Ty / ᛐᛦ
