@@ -8,11 +8,11 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (macOS)
+# ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (macOS)
 
 ![Runetastatur for macOS](nno_Runr_mac.svg)
 
-## ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (Windows)
+# ᚱᚢᚿᛂᚿᚮᚱᛋᚴ (Windows)
 
 ![Runetastatur for Windows](nno_Runr_win.svg)
 
