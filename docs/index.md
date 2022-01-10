@@ -19,10 +19,10 @@ standard majority languages.
 
 
 
-## Layouts
+# Layouts
 
 -   [Layout overview](layout.html)
 
-## Other information
+# Other information
 
 There is a [plan for the Runic keyboards](Plan.html) (in Norwegian).
