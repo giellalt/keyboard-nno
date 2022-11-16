@@ -17,6 +17,16 @@ android:
         ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
         ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
         \s{shift} ᚡ ᛒ ᚿ ᛘ ᛅ ᛫ \s{backspace}
+  tablet-600:
+    layers:
+      default: |
+        ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
+        ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+        \s{shift} ᚡ ᛒ ᚿ ᛘ ᛅ ᛫ \s{backspace}
+      shift: |
+        ᛂ ᚱ ᛐ ᛦ ᚢ ᛁ ᚮ ᛔ ᚭ
+        ᛆ ᛌ ᛑ ᚠ ᚵ ᚼ ᚴ ᛚ ᚯ
+        \s{shift} ᚡ ᛒ ᚿ ᛘ ᛅ ᛫ \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=mobile
