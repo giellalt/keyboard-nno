@@ -548,6 +548,6 @@ longpress:
   ᚭ: Å
   ᛫: ᛬ ᛭
 keyNames:
-  space: ᛘᛁᛚᛚᚮᛘᚱᚢᛘ
-  return: ᛚᛁᚿᛂ\u00ADᛌᚴᛁᚠᛐ
+  space: ᛘᛂᛚᛚᚮᛘᚱᚮᛘ
+  return: "ᛚᛁᚿᛂ\u00ADᛌᚴᛁᚠᛐ"
 
