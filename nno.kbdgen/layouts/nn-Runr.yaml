@@ -29,8 +29,8 @@ android:
         \s{shift} ᚡ ᛒ ᚿ ᛘ ᛅ ᛫ \s{backspace}
 iOS:
   config:
-    # spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=mobile
-    # spellerPath: nn-Runr.bhfst
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-nno?channel=nightly&platform=mobile
+    spellerPath: nn-Runr.bhfst
   primary:
     layers:
       default: |
