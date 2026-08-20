@@ -17,12 +17,10 @@ systems and applications are playing along when presented with things a
 bit outside the standard. Most of our languages are a bit outside the
 standard majority languages.
 
+## Layouts
 
+- [Layout overview](layout.md)
 
-# Layouts
-
--   [Layout overview](layout.html)
-
-# Other information
+## Other information
 
 There is a [plan for the Runic keyboards](Plan.html) (in Norwegian).
