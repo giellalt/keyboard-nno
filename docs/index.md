@@ -23,7 +23,7 @@ standard majority languages.
 
 ## Layouts
 
-- [Layout overview](layout.md)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=nno&interactive=false"></iframe>
 
 ## Other information
 
