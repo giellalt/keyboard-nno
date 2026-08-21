@@ -1,8 +1,5 @@
----
-layout: default
----
-
 # Documentation for the Norwegian Nynorsk keyboards
+
 Why a nynorsk keyboard? «There is already Norwegian keyboards
 everywhere» you may point out. That is of course absolutely true, and
 for desktop systems there is no need for a nynorsk Norwegian keyboard.
